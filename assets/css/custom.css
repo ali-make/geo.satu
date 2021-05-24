@@ -1,0 +1,23 @@
+input[type=float] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    justify-self: right;
+    border: none;
+    border-bottom: 2px solid green;
+}
+
+input[type=submit] {
+    width: 100%;
+    padding: 8px 12px;
+    background-color: greenyellow;
+    box-sizing: border-box;
+    color: grey;
+    border: 2px green;
+    font-weight: bold;
+}
+
+fieldset {
+    width: 200px
+}

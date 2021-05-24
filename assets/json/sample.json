@@ -1,0 +1,39 @@
+{
+    "items": [
+        {
+            "title": "AB/19, Jalan Pringgondani, Karawang 41335, Indonesia",
+            "id": "here:af:streetsection:tSEdIkLqK7Gr55k2ZXxuFC:CggIBCCvv-WBAxABGgVBQi8xOQ",
+            "resultType": "houseNumber",
+            "houseNumberType": "PA",
+            "address": {
+                "label": "AB/19, Jalan Pringgondani, Karawang 41335, Indonesia",
+                "countryCode": "IDN",
+                "countryName": "Indonesia",
+                "county": "Jawa Barat",
+                "city": "Karawang",
+                "district": "Telukjambe Timur",
+                "subdistrict": "Sukaluyu Kel.",
+                "street": "Jalan Pringgondani",
+                "postalCode": "41335",
+                "houseNumber": "AB/19"
+            },
+            "position": {
+                "lat": -6.33009,
+                "lng": 107.28284
+            },
+            "access": [
+                {
+                    "lat": -6.33004,
+                    "lng": 107.28278
+                }
+            ],
+            "distance": 6,
+            "mapView": {
+                "west": 107.28115,
+                "south": -6.33139,
+                "east": 107.28299,
+                "north": -6.32965
+            }
+        }
+    ]
+}
